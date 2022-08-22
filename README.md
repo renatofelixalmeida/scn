@@ -32,3 +32,7 @@ O sistema está disponível aqui no github, mas por falta de tempo não utilizei
 ## Requisitos não atendidos
 
 Não utilizei um framework conhecido, optei por utilizar uma implementação simples de um sistema MVC que criei a algum tempo para agilizar o processo, pois o tempo era limitado.
+
+## Observações
+
+Não fiz o código mais bonito ou bem comentado, meu tempo estava muito limitado para essa tarefa.
