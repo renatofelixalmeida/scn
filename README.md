@@ -16,7 +16,7 @@ php -S localhost:8000 index.php
 
 No navegador utilizar o seguinte endereço:
 
-http://localhost:8000
+http://localhost:8000/index
 
 ## Requisitos atendidos
 O sistema foi criado utilizando PHP 5.5+ com uma instalação padrão, sem necessidade de bibliotecas externas.
