@@ -16,11 +16,11 @@ class Enderecos {
 		foreach($this->data as $data){
 			if ($data['cpfCnpj'] == $cpfCnpj){
 				unset($data['cpfCnpj']);
-				/*$endViaCep = json_decode($this->getEnderecoByCep($data['cep']), true);
+				$endViaCep = json_decode($this->getEnderecoByCep($data['cep']), true);
 				$data['logradouro'] = $endViaCep['logradouro'];
 				$data['bairro'] = $endViaCep['bairro'];
 				$data['localidade'] = $endViaCep['localidade'];
-				$data['uf'] = $endViaCep['uf'];*/
+				$data['uf'] = $endViaCep['uf'];
 				$enderecos[] = $data;
 			}
 		}
