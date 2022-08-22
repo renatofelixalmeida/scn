@@ -5,12 +5,18 @@ Aplicação de teste seguindo os requisitos solicitados.
 O sistema está disponível em:
 https://code.casanova.imb.br/index
 
+Obs. Eu configurei o DNS hoje às 08:25 (brasília) e pode ser que demore algumas horas para propagar.
+
 ## Acessando o sistema no servidor local
 Basta ter o php instalado e iniciar o servidor embarcado apontando o arquivo index.php.
 
 Ex.: 
 
 php -S localhost:8000 index.php
+
+No navegador utilizar o seguinte endereço:
+
+http://localhost:8000
 
 ## Requisitos atendidos
 O sistema foi criado utilizando PHP 5.5+ com uma instalação padrão, sem necessidade de bibliotecas externas.
